@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dongseob Kim
-- 👀 I’m interested in Data and Machine Learning Systems.
+- 👀 I’m interested in Data Engineering and Machine Learning Systems.
 - 🌱 I’m currently working on vector database and RAG serving system.
 - 📫 How to reach me : Send mail to eastskim48@gmail.com!
 
