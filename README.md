@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dongseob Kim
-- 👀 I’m interested in Knowledge Graph, Data Science and Engineering
-- 🌱 I’m currently working on Knowledge Graph Construction, Alignment and Big Data Engineering
+- 👀 I’m interested in Data and Machine Learning Systems.
+- 🌱 I’m currently working on vector database and RAG serving system.
 - 📫 How to reach me : Send mail to eastskim48@gmail.com!
 
 <!---
